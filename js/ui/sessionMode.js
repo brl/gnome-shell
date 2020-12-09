@@ -69,7 +69,7 @@ const _modes = {
 
     'user': {
         hasOverview: true,
-        showCalendarEvents: true,
+        showCalendarEvents: false,
         allowSettings: true,
         allowExtensions: true,
         allowScreencast: true,

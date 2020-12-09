@@ -1,7 +1,6 @@
 service_data = configuration_data()
 service_data.set('libexecdir', libexecdir)
 
-subdir('calendar-server')
 subdir('hotplug-sniffer')
 subdir('st')
 subdir('tray')
